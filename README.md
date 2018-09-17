@@ -8,3 +8,7 @@ Das hier ist die Zeile die ich direkt im MasterBranch eingefügt habe.
 *  viertes
 
 Ende des zweiten Editierens.
++  neue zeile
++  noch eine
+
+Ende des dritten EDITS
